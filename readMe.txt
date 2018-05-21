@@ -12,7 +12,7 @@ VERSION or DATE: 12/28/2017
 HOW TO START THIS PROJECT: Go to sphereatk.getforge.io, or copy documents
 and open HTML index file in Google Chrome
 Must play on a laptop or desktop computer, it was not made for mobile play
-### Note: 5/19/2018, I'll be moving to my own server soon, getforge.io will no longer be active
+### Note: 5/19/2018, please play the game at https://bodhinaut.github.io/attack_of_the_spheres.github.io/
 
 CONTROLS
 MOVEMENT: LEFT and RIGHT directional keys
